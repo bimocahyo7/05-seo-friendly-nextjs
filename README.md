@@ -24,15 +24,24 @@
 
    ![Output developer tools halaman About](<public/screenshots/02 - Metadata About Page.png>)
 
+   Source code Metadata
+   ![Kode metadata halaman About](<public/screenshots/02 - Source Code Metadata About.png>)
+
 2. Tampilan pada halaman **Project**
 
    ![Output developer tools halaman Project](<public/screenshots/02 - Metadata Project Page.png>)
+
+   Source code Metadata
+   ![Kode metadata halaman Project](<public/screenshots/02 - Source Code Metadata Project.png>)
 
 3. Tampilan pada halaman **Essay**
 
    ![Output developer tools halaman Essay](<public/screenshots/02 - Metadata Essay Page.png>)
 
+   Source code Metadata
+   ![Kode metadata halaman Essay](<public/screenshots/02 - Source Code Metadata Essay.png>)
+
 ## Tugas
 
-Hasil dari Developer Tools `Lighthouse` untuk mengecek performa SEO website
+Hasil dari penggunaan Developer Tools `Lighthouse` untuk mengecek performa SEO website
 ![Output lighthouse website](<public/screenshots/03 - Lighthouse SEO Result.png>)
