@@ -4,11 +4,11 @@ import { FaGithub, FaLinkedin, FaEnvelope, FaReact, FaServer, FaPaintBrush, FaLa
 import ProfilePic from "../../public/images/My Photo.webp";
 
 export const metadata: Metadata = {
-  title: "Tentang Saya",
-  description: "Halaman tentang saya",
+  title: "Tentang Saya | Bimo Cahyo Kusumo",
+  description: "Halaman tentang profil saya",
   openGraph: {
-    title: "Tentang saya",
-    description: "Halaman tentang saya",
+    images: "https://bimocahyo.com/profile-image.jpg",
+    url: "https://example.com",
   },
 };
 

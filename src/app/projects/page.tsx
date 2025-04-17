@@ -1,5 +1,15 @@
 import ProjectItem from "@/components/ProjectItem";
 import { project } from "@/data/project";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Project",
+  description: "Halaman yang berisi project-project yang telah saya kerjakan",
+  openGraph: {
+    images: "https://bimocahyo.com/project-image.jpg",
+    url: "https://example.com",
+  },
+};
 
 export default function Projects() {
   return (

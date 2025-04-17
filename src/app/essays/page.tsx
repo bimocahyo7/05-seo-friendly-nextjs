@@ -1,5 +1,15 @@
 import EssayItem from "@/components/EssayItem";
 import { essay } from "@/data/essay";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Essay",
+  description: "Halaman essay saya",
+  openGraph: {
+    images: "https://bimocahyo.com/essay-image.jpg",
+    url: "https://example.com",
+  },
+};
 
 export default function Essays() {
   return (
